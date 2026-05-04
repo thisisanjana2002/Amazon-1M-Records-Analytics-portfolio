@@ -4,7 +4,7 @@
 [Click here to download the Excel file](https://docs.google.com/spreadsheets/d/1splt3mDRMdZQbQZcwLpkDylUTCommB5T/edit?usp=sharing&ouid=1136688041838576084175&rtpof=true&sd=true)
 
 ## 📸 Dashboard Preview
-![dashboard](dashboard-preview.png)
+![Dashboard](Dashboard-preview.png)
 
 ## 🎯 Key Business Insight
 **Cash on Delivery has 35% return rate** vs only **4% for prepaid cards**. 
